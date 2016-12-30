@@ -23,7 +23,7 @@
             <sdk:archive arch="any" os="any">
                 <sdk:size>127672</sdk:size>
                 <sdk:checksum type="sha1">82b03b3b1af550d1d4a04f20c677b912be089483</sdk:checksum>
-                <sdk:url>xposed_bridge_apis-23-r1.zip</sdk:url>
+                <sdk:url>xposed_bridge_apis-24-r1.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:uses-license ref="xposed-bridge-license"/>
